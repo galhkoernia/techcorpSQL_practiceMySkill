@@ -118,7 +118,7 @@ Script pada repository ini telah disesuaikan agar kompatibel dengan PostgreSQL. 
 
 ## Referensi
 
-- MySkill — SQL Practice: TechCorp
+- MySkill Project — SQL Practice: TechCorp
 - PostgreSQL Documentation
 
 ---
