@@ -63,10 +63,11 @@ Employees
 ```text
 TechCorp_SQL/
 │
-├── create_database.sql
-├── create_tables.sql
-├── insert_data.sql
-├── sql_case_study.sql
+├── customers.sql
+├── employes.sql
+├── order_details.sql
+├── orders.sql
+├── products.sql
 └── README.md
 ```
 
